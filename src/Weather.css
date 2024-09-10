@@ -35,8 +35,9 @@
   line-height: 64px;
   font-weight: 400;
 }
-.weather img {
+.weather canvas {
   height: 64px;
   width: 64px;
+  margin-right: 10px;
   display: inline-block;
 }
