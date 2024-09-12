@@ -36,8 +36,8 @@
   font-weight: 400;
 }
 .weather canvas {
-  height: 64px;
-  width: 64px;
+  height: 50px;
+  width: 50px;
   margin-right: 10px;
   display: inline-block;
 }
