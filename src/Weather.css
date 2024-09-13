@@ -27,6 +27,10 @@
   font-weight: 400;
   position: relative;
   top: -34px;
+  line-height: 1;
+}
+a {
+  text-decoration: none;
 }
 .weather .temperature {
   font-weight: bold;
