@@ -29,7 +29,7 @@ function App() {
             </a>{" "}
             and{" "}
             <a
-              href="https://magenta-starburst-cf5411.netlify.app/"
+              href="https://remarkable-marigold-f58188.netlify.app/"
               target="_blank"
               rel="noopener noreferrer"
             >
