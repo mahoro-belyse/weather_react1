@@ -13,7 +13,7 @@ function App() {
           <div className="footer">
             this project was coded by{" "}
             <a
-              href="https://www.shecodes.io/"
+              href="https://github.com/mahoro-belyse"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -21,7 +21,7 @@ function App() {
             </a>{" "}
             and is{" "}
             <a
-              href="https://github.com/mahoro-belyse/weather_react"
+              href="https://github.com/mahoro-belyse/weather_react1"
               target="_blank"
               rel="noopener noreferrer"
             >
