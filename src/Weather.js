@@ -9,7 +9,7 @@ export default function Weather(props) {
   function exchange(response) {
     setWeather({
       ready: true,
-      coordinates: response.data.coord,
+      coordinates: response.data.coordinates,
       temperature: response.data.temperature.current,
       description: response.data.condition.description,
       humidity: response.data.temperature.humidity,
